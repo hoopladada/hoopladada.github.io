@@ -1,0 +1,43 @@
+body {background-color: #F2F2F2;}
+
+body {color: black;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	text-align:center;
+	margin-top: 4%;
+	margin-bottom: 5%;
+	margin-right:30%;
+	margin-left:28%;
+	border-style:solid;
+	border-radius: 5%;
+	border-top: 20%;
+}
+
+h1 {
+	text-align:center;
+	margin-top: 10px;
+	font-size:50px;
+}
+
+div.pages {
+	text-align:center;
+	float:left;
+	font-size: 35px;
+	margin-top: 25%;
+	margin-left: 15px;
+}
+
+div#picture img{
+	float:left;
+	margin-left:9%;
+	height: 60%;
+}
+
+div.pages div a{
+	text-decoration:none;
+	color: black;
+}
+
+div.pages div a:hover{
+	color:white;
+	background-color:black;
+}

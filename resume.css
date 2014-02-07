@@ -1,0 +1,16 @@
+body {
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	width: 500px;
+}
+
+div.title {
+	text-decoration: underline;
+}
+
+div.subtitle {
+	font-weight: bold;
+}
+
+div.date {
+	font-style: italic;
+}

@@ -1,0 +1,32 @@
+body {color: black;
+	font-family: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+	text-align:center;
+	margin-top: 7%;
+	margin-left: 25%;
+	margin-right: 25%;
+	background-color: #F2F2F2;
+}
+
+div#bio {
+	float: left;
+	font-size:18;
+	width: 275px;
+}
+
+
+div#picture{
+	float:left;
+	margin-left: 30px;
+	width: 250px;
+}
+
+img#burgers {
+	border: 5px solid grey;
+	width: 250px;
+}
+
+div.content {
+	float: left;
+	margin-left:25px;
+	margin-top:0%;
+}
