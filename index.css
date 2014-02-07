@@ -7,9 +7,6 @@ body {color: black;
 	margin-bottom: 5%;
 	margin-right:30%;
 	margin-left:28%;
-	border-style:solid;
-	border-radius: 5%;
-	border-top: 20%;
 }
 
 h1 {
@@ -22,7 +19,7 @@ div.pages {
 	text-align:center;
 	float:left;
 	font-size: 35px;
-	margin-top: 25%;
+	margin-top: 30%;
 	margin-left: 15px;
 }
 
